@@ -3,7 +3,6 @@ import java.util.*;
 // Write your Checker class here
 
 
-
 class Player{
     String name;
     int score;
@@ -24,7 +23,6 @@ class Checker implements Comparator<Player>{
 }
 
 class Comparators{
-
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int n = scan.nextInt();
