@@ -5,7 +5,8 @@ public class Utility {
     }
 
     public static void main(String[] args) {
-        String x = toJavaArray("[[1,1,0,0,1,0],[0,0,1,0,1,0],[0,1,1,0,0,1],[1,1,0,1,1,1],[1,0,0,0,1,0],[0,1,1,1,0,0]]");
+        String x = toJavaArray("[[\"yellow_hat\", \"headgear\"], [\"blue_sunglasses\", \"eyewear\"], [\"green_turban\", \"headgear\"]]");
         System.out.println(x);
+
     }
 }
