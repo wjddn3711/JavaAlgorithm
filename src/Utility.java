@@ -5,7 +5,7 @@ public class Utility {
     }
 
     public static void main(String[] args) {
-        String x = toJavaArray("[[\"yellow_hat\", \"headgear\"], [\"blue_sunglasses\", \"eyewear\"], [\"green_turban\", \"headgear\"]]");
+        String x = toJavaArray("[[60, 50], [30, 70], [60, 30], [80, 40]]");
         System.out.println(x);
 
     }
