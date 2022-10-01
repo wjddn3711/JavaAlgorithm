@@ -1,3 +1,5 @@
+package BFS_DFS;
+
 import java.util.LinkedList;
 import java.util.Queue;
 

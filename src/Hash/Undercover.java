@@ -1,3 +1,5 @@
+package Hash;
+
 import java.util.*;
 public class Undercover {
     public static void main(String[] args) {

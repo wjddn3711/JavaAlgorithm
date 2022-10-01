@@ -1,3 +1,5 @@
+package BFS_DFS;
+
 import java.nio.channels.Pipe;
 import java.util.*;
 import java.util.stream.Collectors;
